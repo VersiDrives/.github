@@ -10,7 +10,6 @@ With Versi, users will be able to find upcoming car shows on the map. Share your
 
 Started with a team of five car enthusiasts from Minnesota and grew to what it is today.
 
-### 📱 For automotive enthusiasts, by automotive enthusiasts
 <!--
 
 
