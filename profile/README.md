@@ -1,6 +1,6 @@
 # 👋 Hey, welcome to Versi
 
-**`UPDATE: Beta Starting Summer of 2025`**
+**`UPDATE: Beta Starting Spring of 2026`**
 
 ![Photo of 4 cars driving on a seanic road](https://github.com/VersiDrives/.github/assets/90109061/2c67bf97-8586-4dd9-95c1-51ae5b425a81)
 
